@@ -1,3 +1,3 @@
 # MyFirstRepository
-# Michal Ouředníček
-# Datum 9. 10. 2023
+## Michal Ouředníček
+ Datum 9. 10. 2023
